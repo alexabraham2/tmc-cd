@@ -20,6 +20,6 @@
       values:
         auth:
           rootUser: admin
-          rootPassword: 
+          rootPassword: VMware1!
         service:
           type: LoadBalancer
